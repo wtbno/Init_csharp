@@ -1,0 +1,2 @@
+dotnet new console =>  console é o tipo de projeto;
+dotnet run => compilar e rodar;
